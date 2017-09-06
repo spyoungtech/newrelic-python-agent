@@ -156,6 +156,7 @@ newrelic/hooks/external_botocore.py
 newrelic/hooks/external_dropbox.py
 newrelic/hooks/external_facepy.py
 newrelic/hooks/external_feedparser.py
+newrelic/hooks/external_grpc.py
 newrelic/hooks/external_httplib.py
 newrelic/hooks/external_httplib2.py
 newrelic/hooks/external_pywapi.py
