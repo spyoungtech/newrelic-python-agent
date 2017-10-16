@@ -167,6 +167,7 @@ newrelic/hooks/external_urllib.py
 newrelic/hooks/external_urllib2.py
 newrelic/hooks/external_urllib3.py
 newrelic/hooks/external_xmlrpclib.py
+newrelic/hooks/framework_aiohttp.py
 newrelic/hooks/framework_bottle.py
 newrelic/hooks/framework_cherrypy.py
 newrelic/hooks/framework_django.py
