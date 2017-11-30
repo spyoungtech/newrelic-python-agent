@@ -59,6 +59,7 @@ newrelic/api/solr_trace.py
 newrelic/api/supportability.py
 newrelic/api/time_trace.py
 newrelic/api/transaction.py
+newrelic/api/transaction_context.py
 newrelic/api/transaction_name.py
 newrelic/api/web_transaction.py
 newrelic/bootstrap/__init__.py
@@ -215,6 +216,12 @@ newrelic/hooks/framework_tornado_r3/ioloop.py
 newrelic/hooks/framework_tornado_r3/stack_context.py
 newrelic/hooks/framework_tornado_r3/util.py
 newrelic/hooks/framework_tornado_r3/web.py
+newrelic/hooks/framework_tornado_r4/__init__.py
+newrelic/hooks/framework_tornado_r4/httpclient.py
+newrelic/hooks/framework_tornado_r4/httputil.py
+newrelic/hooks/framework_tornado_r4/routing.py
+newrelic/hooks/framework_tornado_r4/utils.py
+newrelic/hooks/framework_tornado_r4/web.py
 newrelic/network/__init__.py
 newrelic/network/addresses.py
 newrelic/network/exceptions.py
