@@ -34,6 +34,7 @@ newrelic/api/__init__.py
 newrelic/api/application.py
 newrelic/api/background_task.py
 newrelic/api/cat_header_mixin.py
+newrelic/api/coroutine_trace.py
 newrelic/api/database_trace.py
 newrelic/api/datastore_trace.py
 newrelic/api/error_trace.py
@@ -217,6 +218,7 @@ newrelic/hooks/framework_tornado_r3/stack_context.py
 newrelic/hooks/framework_tornado_r3/util.py
 newrelic/hooks/framework_tornado_r3/web.py
 newrelic/hooks/framework_tornado_r4/__init__.py
+newrelic/hooks/framework_tornado_r4/gen.py
 newrelic/hooks/framework_tornado_r4/httpclient.py
 newrelic/hooks/framework_tornado_r4/httputil.py
 newrelic/hooks/framework_tornado_r4/routing.py
