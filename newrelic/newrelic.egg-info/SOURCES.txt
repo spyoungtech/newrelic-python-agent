@@ -127,6 +127,7 @@ newrelic/hooks/component_cornice.py
 newrelic/hooks/component_djangorestframework.py
 newrelic/hooks/component_piston.py
 newrelic/hooks/component_tastypie.py
+newrelic/hooks/coroutines_asyncio.py
 newrelic/hooks/coroutines_gevent.py
 newrelic/hooks/database_cx_oracle.py
 newrelic/hooks/database_dbapi2.py
