@@ -155,7 +155,6 @@ newrelic/hooks/datastore_pysolr.py
 newrelic/hooks/datastore_redis.py
 newrelic/hooks/datastore_solrpy.py
 newrelic/hooks/datastore_umemcache.py
-newrelic/hooks/external_aiohttp.py
 newrelic/hooks/external_botocore.py
 newrelic/hooks/external_dropbox.py
 newrelic/hooks/external_facepy.py
