@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: newrelic
-Version: 2.106.1.88
+Version: 3.0.0.89
 Summary: New Relic Python Agent
 Home-page: http://newrelic.com/docs/python/new-relic-for-python
 Author: New Relic

@@ -9,7 +9,6 @@ newrelic/build.py
 newrelic/config.py
 newrelic/console.py
 newrelic/newrelic.ini
-newrelic/platform.py
 newrelic.egg-info/PKG-INFO
 newrelic.egg-info/SOURCES.txt
 newrelic.egg-info/dependency_links.txt
@@ -18,7 +17,6 @@ newrelic.egg-info/not-zip-safe
 newrelic.egg-info/top_level.txt
 newrelic/admin/__init__.py
 newrelic/admin/__main__.py
-newrelic/admin/data_source.py
 newrelic/admin/debug_console.py
 newrelic/admin/generate_config.py
 newrelic/admin/license_info.py
@@ -49,7 +47,6 @@ newrelic/api/in_function.py
 newrelic/api/memcache_trace.py
 newrelic/api/message_trace.py
 newrelic/api/message_transaction.py
-newrelic/api/name_transaction.py
 newrelic/api/object_wrapper.py
 newrelic/api/out_function.py
 newrelic/api/post_function.py
@@ -227,7 +224,6 @@ newrelic/hooks/framework_tornado_r4/web.py
 newrelic/network/__init__.py
 newrelic/network/addresses.py
 newrelic/network/exceptions.py
-newrelic/network/platform_api.py
 newrelic/packages/__init__.py
 newrelic/packages/six.py
 newrelic/packages/requests/LICENSE
