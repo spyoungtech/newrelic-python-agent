@@ -1,12 +1,13 @@
-Metadata-Version: 1.1
+Metadata-Version: 1.2
 Name: newrelic
-Version: 3.0.0.89
+Version: 3.2.0.91
 Summary: New Relic Python Agent
 Home-page: http://newrelic.com/docs/python/new-relic-for-python
 Author: New Relic
 Author-email: support@newrelic.com
+Maintainer: New Relic
+Maintainer-email: support@newrelic.com
 License: New Relic License
-Description-Content-Type: UNKNOWN
 Description: ======================
         New Relic Python Agent
         ======================

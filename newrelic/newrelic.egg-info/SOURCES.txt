@@ -110,6 +110,7 @@ newrelic/extras/framework_django/__init__.py
 newrelic/extras/framework_django/templatetags/__init__.py
 newrelic/extras/framework_django/templatetags/newrelic_tags.py
 newrelic/hooks/__init__.py
+newrelic/hooks/adapter_cheroot.py
 newrelic/hooks/adapter_cherrypy.py
 newrelic/hooks/adapter_flup.py
 newrelic/hooks/adapter_gevent.py
@@ -122,6 +123,7 @@ newrelic/hooks/application_celery.py
 newrelic/hooks/application_gearman.py
 newrelic/hooks/component_cornice.py
 newrelic/hooks/component_djangorestframework.py
+newrelic/hooks/component_flask_rest.py
 newrelic/hooks/component_piston.py
 newrelic/hooks/component_tastypie.py
 newrelic/hooks/coroutines_asyncio.py
