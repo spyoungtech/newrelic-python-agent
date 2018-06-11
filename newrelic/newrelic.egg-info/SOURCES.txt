@@ -75,6 +75,7 @@ newrelic/common/system_info.py
 newrelic/common/utilization.py
 newrelic/core/__init__.py
 newrelic/core/_thread_utilization.c
+newrelic/core/adaptive_sampler.py
 newrelic/core/agent.py
 newrelic/core/application.py
 newrelic/core/attribute.py
@@ -94,6 +95,7 @@ newrelic/core/internal_metrics.py
 newrelic/core/memcache_node.py
 newrelic/core/message_node.py
 newrelic/core/metric.py
+newrelic/core/node_mixin.py
 newrelic/core/profile_sessions.py
 newrelic/core/rules_engine.py
 newrelic/core/solr_node.py
