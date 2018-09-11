@@ -177,6 +177,7 @@ newrelic/hooks/framework_django.py
 newrelic/hooks/framework_flask.py
 newrelic/hooks/framework_pylons.py
 newrelic/hooks/framework_pyramid.py
+newrelic/hooks/framework_sanic.py
 newrelic/hooks/framework_tornado_r1.py
 newrelic/hooks/framework_twisted.py
 newrelic/hooks/framework_web2py.py
