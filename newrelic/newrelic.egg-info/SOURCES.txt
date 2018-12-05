@@ -175,6 +175,7 @@ newrelic/hooks/framework_aiohttp.py
 newrelic/hooks/framework_bottle.py
 newrelic/hooks/framework_cherrypy.py
 newrelic/hooks/framework_django.py
+newrelic/hooks/framework_falcon.py
 newrelic/hooks/framework_flask.py
 newrelic/hooks/framework_pylons.py
 newrelic/hooks/framework_pyramid.py
