@@ -32,7 +32,6 @@ newrelic/api/__init__.py
 newrelic/api/application.py
 newrelic/api/background_task.py
 newrelic/api/cat_header_mixin.py
-newrelic/api/coroutine_trace.py
 newrelic/api/database_trace.py
 newrelic/api/datastore_trace.py
 newrelic/api/error_trace.py
@@ -67,6 +66,7 @@ newrelic/common/__init__.py
 newrelic/common/_monotonic.c
 newrelic/common/cacert.pem
 newrelic/common/certs.py
+newrelic/common/coroutine.py
 newrelic/common/encoding_utils.py
 newrelic/common/log_file.py
 newrelic/common/object_names.py
