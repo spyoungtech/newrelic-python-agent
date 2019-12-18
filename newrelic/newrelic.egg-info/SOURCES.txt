@@ -45,6 +45,7 @@ newrelic/api/html_insertion.py
 newrelic/api/import_hook.py
 newrelic/api/in_function.py
 newrelic/api/lambda_handler.py
+newrelic/api/log.py
 newrelic/api/memcache_trace.py
 newrelic/api/message_trace.py
 newrelic/api/message_transaction.py
