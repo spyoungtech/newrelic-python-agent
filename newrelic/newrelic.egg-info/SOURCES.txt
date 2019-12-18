@@ -3,6 +3,7 @@ README.rst
 VERSION
 setup.py
 newrelic/LICENSE
+newrelic/THIRD_PARTY_NOTICES.md
 newrelic/__init__.py
 newrelic/agent.py
 newrelic/build.py
