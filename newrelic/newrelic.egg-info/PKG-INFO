@@ -1,6 +1,6 @@
 Metadata-Version: 1.2
 Name: newrelic
-Version: 5.2.2.130
+Version: 5.2.3.131
 Summary: New Relic Python Agent
 Home-page: http://newrelic.com/docs/python/new-relic-for-python
 Author: New Relic
@@ -105,6 +105,7 @@ Classifier: Programming Language :: Python :: 2.7
 Classifier: Programming Language :: Python :: 3.5
 Classifier: Programming Language :: Python :: 3.6
 Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
 Classifier: Programming Language :: Python :: Implementation :: CPython
 Classifier: Programming Language :: Python :: Implementation :: PyPy
 Classifier: Topic :: System :: Monitoring
