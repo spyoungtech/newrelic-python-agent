@@ -60,6 +60,7 @@ newrelic/api/transaction.py
 newrelic/api/transaction_context.py
 newrelic/api/transaction_name.py
 newrelic/api/web_transaction.py
+newrelic/api/wsgi_application.py
 newrelic/bootstrap/__init__.py
 newrelic/bootstrap/sitecustomize.py
 newrelic/common/__init__.py
