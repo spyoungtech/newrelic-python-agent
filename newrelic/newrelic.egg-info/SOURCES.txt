@@ -162,7 +162,6 @@ newrelic/hooks/external_botocore.py
 newrelic/hooks/external_dropbox.py
 newrelic/hooks/external_facepy.py
 newrelic/hooks/external_feedparser.py
-newrelic/hooks/external_grpc.py
 newrelic/hooks/external_httplib.py
 newrelic/hooks/external_httplib2.py
 newrelic/hooks/external_pywapi.py
@@ -178,6 +177,7 @@ newrelic/hooks/framework_cherrypy.py
 newrelic/hooks/framework_django.py
 newrelic/hooks/framework_falcon.py
 newrelic/hooks/framework_flask.py
+newrelic/hooks/framework_grpc.py
 newrelic/hooks/framework_pylons.py
 newrelic/hooks/framework_pyramid.py
 newrelic/hooks/framework_sanic.py
