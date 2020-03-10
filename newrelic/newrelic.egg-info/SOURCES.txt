@@ -103,6 +103,7 @@ newrelic/core/message_node.py
 newrelic/core/metric.py
 newrelic/core/node_mixin.py
 newrelic/core/profile_sessions.py
+newrelic/core/root_node.py
 newrelic/core/rules_engine.py
 newrelic/core/solr_node.py
 newrelic/core/stack_trace.py
