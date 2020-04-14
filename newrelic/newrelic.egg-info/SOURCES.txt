@@ -15,6 +15,7 @@ newrelic.egg-info/SOURCES.txt
 newrelic.egg-info/dependency_links.txt
 newrelic.egg-info/entry_points.txt
 newrelic.egg-info/not-zip-safe
+newrelic.egg-info/requires.txt
 newrelic.egg-info/top_level.txt
 newrelic/admin/__init__.py
 newrelic/admin/__main__.py
@@ -76,6 +77,7 @@ newrelic/common/log_file.py
 newrelic/common/object_names.py
 newrelic/common/object_wrapper.py
 newrelic/common/stopwatch.py
+newrelic/common/streaming_utils.py
 newrelic/common/system_info.py
 newrelic/common/utilization.py
 newrelic/core/__init__.py
@@ -96,6 +98,7 @@ newrelic/core/error_collector.py
 newrelic/core/error_node.py
 newrelic/core/external_node.py
 newrelic/core/function_node.py
+newrelic/core/infinite_tracing_pb2.py
 newrelic/core/internal_metrics.py
 newrelic/core/loop_node.py
 newrelic/core/memcache_node.py
